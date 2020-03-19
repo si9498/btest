@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 b.txt step2
+=======
+
+b.txt
+
+>>>>>>> sky
